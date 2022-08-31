@@ -1,0 +1,44 @@
+[
+  {
+    "text": "What's the meaning of life?",
+    "answers": [
+      {
+        "text": "42",
+        "isCorrect": true
+      },
+      {
+        "text": "Dunno",
+        "isCorrect": false
+      },
+      {
+        "text": "Yea bro",
+        "isCorrect": false
+      },
+      {
+        "text": "Chris Tarrant is cool",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "text": "What's the meaning of life?",
+    "answers": [
+      {
+        "text": "42",
+        "isCorrect": true
+      },
+      {
+        "text": "Dunno",
+        "isCorrect": false
+      },
+      {
+        "text": "Yea bro",
+        "isCorrect": false
+      },
+      {
+        "text": "Chris Tarrant is cool",
+        "isCorrect": false
+      }
+    ]
+  }
+]
